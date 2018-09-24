@@ -1,0 +1,15 @@
+body{
+	background-image: url('../56b616a8-1c04-49db-bd0e-12518cc2bc5d.jpeg');
+}
+.Formu{
+	border: 2px solid black;
+	padding: 5px;
+	margin: 5px;
+}
+.main{
+	margin: 0 auto;
+	width: 90%;
+	padding: 0;
+	max-width: 1170px;
+	min-width: 780px;
+}
